@@ -1,1 +1,3 @@
 printf("Welcome !");
+
+Print :"new1"};
