@@ -1,2 +1,4 @@
 printf("hello word");
 printf("New word");
+
+print (" New 2 hello-word");
