@@ -1,3 +1,5 @@
 printf("Welcome !");
 
 Print :"new1"};
+
+Print ("new2");
